@@ -1,0 +1,15 @@
+C:\Users\Админ\Documents\HomeworkSeminar1\bin\Debug\net7.0\HomeworkSeminar1.exe
+C:\Users\Админ\Documents\HomeworkSeminar1\bin\Debug\net7.0\HomeworkSeminar1.deps.json
+C:\Users\Админ\Documents\HomeworkSeminar1\bin\Debug\net7.0\HomeworkSeminar1.runtimeconfig.json
+C:\Users\Админ\Documents\HomeworkSeminar1\bin\Debug\net7.0\HomeworkSeminar1.dll
+C:\Users\Админ\Documents\HomeworkSeminar1\bin\Debug\net7.0\HomeworkSeminar1.pdb
+C:\Users\Админ\Documents\HomeworkSeminar1\obj\Debug\net7.0\HomeworkSeminar1.csproj.AssemblyReference.cache
+C:\Users\Админ\Documents\HomeworkSeminar1\obj\Debug\net7.0\HomeworkSeminar1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Админ\Documents\HomeworkSeminar1\obj\Debug\net7.0\HomeworkSeminar1.AssemblyInfoInputs.cache
+C:\Users\Админ\Documents\HomeworkSeminar1\obj\Debug\net7.0\HomeworkSeminar1.AssemblyInfo.cs
+C:\Users\Админ\Documents\HomeworkSeminar1\obj\Debug\net7.0\HomeworkSeminar1.csproj.CoreCompileInputs.cache
+C:\Users\Админ\Documents\HomeworkSeminar1\obj\Debug\net7.0\HomeworkSeminar1.dll
+C:\Users\Админ\Documents\HomeworkSeminar1\obj\Debug\net7.0\refint\HomeworkSeminar1.dll
+C:\Users\Админ\Documents\HomeworkSeminar1\obj\Debug\net7.0\HomeworkSeminar1.pdb
+C:\Users\Админ\Documents\HomeworkSeminar1\obj\Debug\net7.0\HomeworkSeminar1.genruntimeconfig.cache
+C:\Users\Админ\Documents\HomeworkSeminar1\obj\Debug\net7.0\ref\HomeworkSeminar1.dll
